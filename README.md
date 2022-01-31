@@ -1,8 +1,8 @@
 ### Olá, Sou Luann dev programador 👋
 
-- 🔭 Hoje trabalho como desenvolvedor FullStack ...
+- 🔭 Hoje trabalho com desenvolvimento mobile ...
 - 🌱 Estudando TypeScript
-- 🛠 HTML5, CSS3, JavaScript, TypeScript, Node, Mysql, MongoDb e Sass.
+- 🛠 HTML5, CSS3, JavaScript, TypeScript, Firebase, Node, Mysql, MongoDb e Sass.
 
  <div>
   <a href="https://github.com/Luann244/Luann244">
