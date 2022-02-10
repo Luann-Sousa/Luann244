@@ -4,7 +4,7 @@
 - 🌱 Estudando TypeScript, Test usando JEST, React.js, React Native, React.next e NodeJS.
 
 E em Alguns Projeto Que Venho Desenvolvendo Durante Minha Jornada Como Programador Usei As Seguintes Tecnologias:
-- 🛠 HTML5, CSS3, JavaScript, Bootstrap, TypeScript, Firebase, React.js, React Native, React.next, Node, Mysql, MongoDb, Styled-Components e Sass.
+🛠 HTML5, CSS3, JavaScript, Bootstrap, TypeScript, Firebase, React.js, React Native, React.next, Node, Mysql, MongoDb, Styled-Components e Sass.
 
 
  <div>
