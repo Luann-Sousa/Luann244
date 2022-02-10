@@ -1,8 +1,8 @@
-### Olá, Sou Luann dev programador 👋
+### Sou Luan Dev Programador FullStack 👋
 
-- 🔭 Hoje trabalho com desenvolvimento mobile ...
-- 🌱 Estudando TypeScript
-- 🛠 HTML5, CSS3, JavaScript, TypeScript, Firebase, Node, Mysql, MongoDb e Sass.
+- 🔭 Atualmente trabalho com desenvolvimento mobile ...
+- 🌱 Estudando TypeScript, Test usando JEST, React.js, React Native, React.next e NodeJS.
+- 🛠 HTML5, CSS3, JavaScript, Bootstrap, TypeScript, Firebase, React.js, React Native, React.next, Node, Mysql, MongoDb, Styled-Components e Sass.
 
  <div>
   <a href="https://github.com/Luann244/Luann244">
@@ -26,7 +26,7 @@
 <div> 
 
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "weversonluan17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weverson-luan-de-sousa-1969a81b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
