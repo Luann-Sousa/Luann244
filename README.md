@@ -1,8 +1,11 @@
-### Sou Luan Dev Programador FullStack 👋
+### Hi 👋
 
-- 🔭 Atualmente trabalho com desenvolvimento mobile ...
+- 🔭 - Eu sou Weverson Luan de Sousa👨‍🚀. Atualmente sou desenvolvedor mobile,  e estudante de conteúdo de programação. Também tenho experiência com desenvolvimento web e desktop.
 - 🌱 Estudando TypeScript, Test usando JEST, React.js, React Native, React.next e NodeJS.
+
+E em Alguns Projeto Que Venho Desenvolvendo Durante Minha Jornada Como Programador Usei As Seguintes Tecnologias:
 - 🛠 HTML5, CSS3, JavaScript, Bootstrap, TypeScript, Firebase, React.js, React Native, React.next, Node, Mysql, MongoDb, Styled-Components e Sass.
+
 
  <div>
   <a href="https://github.com/Luann244/Luann244">
