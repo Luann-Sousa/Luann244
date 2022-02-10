@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 👨 Eu sou Weverson Luan de Sousa . Atualmente sou desenvolvedor mobile,  e estudante de conteúdo de programação. Também tenho experiência com desenvolvimento web e desktop.</br>
+- 👨 Eu sou Weverson Luan de Sousa . Atualmente Sou Desenvolvedor Mobile,  e Estudante de Conteúdo de Programação. Também Tenho Experiência com Desenvolvimento Web e desktop.</br>
 - 🚀 Estudando TypeScript, Test usando JEST, React.js, React Native, React.next e NodeJS.
 
 E em Alguns Projeto Que Venho Desenvolvendo Durante Minha Jornada Como Programador Usei As Seguintes Tecnologias:
