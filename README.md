@@ -1,37 +1,34 @@
-### Hi 👋
+###  Olá, Dev 👋
 
-- 👨 Eu sou Weverson Luan de Sousa . Atualmente Sou Desenvolvedor Mobile,  e Estudante de Conteúdo de Programação. Também Tenho Experiência com Desenvolvimento Web e Desktop.</br>
-- 🚀 Estudando TypeScript, Test usando JEST, React.js, React Native, React.next e NodeJS.
+Meu Nome é Weverson Luan De Sousa, Atualmente Sou Dev Fullstack, Trabalho  com Desenvolvimento de Aplicativos, Mas lido com Desenvolvimento  Web e Desktop Tranquilamente, também  Trabalho Com Responsovidade na Web para que o Sistema Desenvolvido possa se Adaptar a Qualquer Tipo de tamanho de  Tela. Sigo Sempre Determinado em Agregar Ótimos Resultados Para a Empressa e o Cliente. Sigo Estudando e trabalhando com as Seguintes Skills JavaScript, TypeScript, Node.Js, React.Native, React.Js, React.next, MySQL, TypeOrm e Prisma.</br>
 
-E em Alguns Projeto Que Venho Desenvolvendo Durante Minha Jornada Como Programador Usei As Seguintes Tecnologias:
-- 🛠 HTML5, CSS3, JavaScript, Bootstrap, TypeScript, Firebase, React.js, React Native, React.next, Node, Mysql, MongoDb, Styled-Components e Sass.
+[![Portifolio](https://img.shields.io/badge/WeversonLuan-Dev-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://portfolio-henna-theta.vercel.app/)
+[![Likend](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weverson-luan-de-sousa-1969a81b0/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Google](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+[![Facebook](https://img.shields.io/badge/WhatsApp-31982132421?style=for-the-badge&logo=whatsapp&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
 
 
- <div>
-  <a href="https://github.com/Luann244/Luann244">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luann244&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann244&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Luann-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luann-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luann-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luann-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Luann-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luann-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Luann-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Luann-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-</div>
+![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=Weverson-Luan&show_icons=true&theme=dracula)
 
-  ##
- 
-<div> 
 
- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/weverson-luan-de-sousa-1969a81b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+## Tecnologias  que uso no meu dia a dia
+
+<div style="display: inline-block"></br>
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1" />
+  <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />	
+  <img align="center" alt="React JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div></br>
+
+
+## Pouco mais sobre min 
+Apoixonado por desenvolver soluçãoes que impacta a vida de milhões de usuários. Em meus tempos livres sempre to estudando ou vendo um curso, mais sempre vendo algo para esta me aperfeiçoado cada vez mais nas tecnologias que utilizo no meu dia a dia e livre para aprender outras. 👨‍💻
+
+## Linguagens mais utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weverson-Luan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
